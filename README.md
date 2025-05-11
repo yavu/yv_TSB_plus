@@ -1,9 +1,13 @@
 # yv_TSB+
-[TheSkyBlessing](https://github.com/ProjectTSB/TheSkyBlessing)をyavu好みにカスタマイズする、非公式追加リソースパック
+[TheSkyBlessing](https://github.com/ProjectTSB/TheSkyBlessing)をyavu好みにカスタマイズする、併用前提の非公式改変リソースパック
 
 > [!WARNING]
-> このリソースパックは**非公式**です<br>
-TheSkyBlessing公式へのお問い合わせはお辞め下さい
+> このリソースパックは<ins>**非公式**</ins>です<br>
+TheSkyBlessing公式へのお問い合わせはご遠慮下さい
+
+## ダウンロード
+
+[最新リリース](https://github.com/yavu/yv_TSB_plus/releases/latest)
 
 ## 導入方法
 
