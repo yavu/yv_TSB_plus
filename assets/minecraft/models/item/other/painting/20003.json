@@ -1,0 +1,7 @@
+{
+    "parent": "item/other/painting/common",
+	"textures": {
+		"1": "block/barrel_bottom",
+		"2": "item/other/painting/20003/flora"
+	}
+}
